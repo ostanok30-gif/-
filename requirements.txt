@@ -1,2 +1,0 @@
-pyTelegramBotAPI==4.22.1
-SpeechRecognition==3.10.4
