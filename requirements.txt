@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.22.1
+SpeechRecognition==3.10.4
+python-ffmpeg==2.0.7
+pydub==0.25.1
